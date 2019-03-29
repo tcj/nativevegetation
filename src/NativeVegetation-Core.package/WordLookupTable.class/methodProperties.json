@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"default" : "tcj 2/26/2019 19:26",
+		"reset" : "tcj 2/26/2019 19:25" },
+	"instance" : {
+		"addArrayToTable:" : "tcj 2/26/2019 19:13",
+		"convert:" : "tcj 2/27/2019 13:37",
+		"convertArray:" : "tcj 2/27/2019 08:29",
+		"initialize" : "tcj 2/26/2019 19:30",
+		"lookup:" : "tcj 2/27/2019 08:01",
+		"scan:" : "tcj 2/27/2019 08:26" } }

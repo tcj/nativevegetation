@@ -1,0 +1,14 @@
+{
+	"category" : "NativeVegetation-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LookupTable" ],
+	"commentStamp" : "tcj 2/27/2019 08:17",
+	"instvars" : [
+		 ],
+	"name" : "NativeVegetationPool",
+	"pools" : [
+		 ],
+	"super" : "SharedPool",
+	"type" : "normal" }

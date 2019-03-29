@@ -1,0 +1,14 @@
+{
+	"category" : "NativeVegetation-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"DefaultInstance" ],
+	"commentStamp" : "tcj 2/27/2019 08:14",
+	"instvars" : [
+		"table" ],
+	"name" : "WordLookupTable",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

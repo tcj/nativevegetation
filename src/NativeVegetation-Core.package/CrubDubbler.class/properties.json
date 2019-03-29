@@ -1,0 +1,19 @@
+{
+	"category" : "NativeVegetation-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "tcj 2/27/2019 14:44",
+	"instvars" : [
+		"sourceString",
+		"tokenized",
+		"symbolized",
+		"betweenPeriods",
+		"convertedSentences",
+		"originalAndConverted" ],
+	"name" : "CrubDubbler",
+	"pools" : [
+		"NativeVegetationPool" ],
+	"super" : "Object",
+	"type" : "normal" }

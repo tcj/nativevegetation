@@ -1,0 +1,4 @@
+accessing
+symbolized
+
+	^ symbolized

@@ -1,0 +1,21 @@
+{
+	"category" : "NativeVegetation-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sourceString",
+		"swdc",
+		"rw",
+		"sourceString2",
+		"sourceString3",
+		"rw2",
+		"rw3",
+		"rwswdc" ],
+	"name" : "ReplacedWordTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

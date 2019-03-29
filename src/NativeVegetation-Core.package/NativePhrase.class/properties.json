@@ -1,0 +1,14 @@
+{
+	"category" : "NativeVegetation-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "tcj 2/27/2019 13:31",
+	"instvars" : [
+		"elements" ],
+	"name" : "NativePhrase",
+	"pools" : [
+		"NativeVegetationPool" ],
+	"super" : "Object",
+	"type" : "normal" }

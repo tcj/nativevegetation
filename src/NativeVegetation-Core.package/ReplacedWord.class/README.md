@@ -1,0 +1,1 @@
+I represent a word stored in the lookup table, and I preserve its capitalization.

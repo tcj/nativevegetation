@@ -1,0 +1,3 @@
+printing
+inspectForHumans
+	^ true
